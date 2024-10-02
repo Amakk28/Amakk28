@@ -1,5 +1,7 @@
-## Hi there 👋
+My name is Abrar Makki, and I am currently pursuing a degree in Software Engineering at the University of Illinois at Chicago. My passion for software engineering was ignited during my first year at UIC, where I was introduced to the world of coding and problem-solving. The collaborative environment and innovative projects at UIC have further fueled my enthusiasm for creating efficient and impactful software solutions. 
 
+I have honed my skills in various programming languages, including C++, C, Java, and Python, and I am eager to apply my knowledge to real-world challenges.
+Additionally, I have a strong foundation in data structures, computer architecture, advanced algorithms, and other key areas of computer science.
 <!--
 **Amakk28/Amakk28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
